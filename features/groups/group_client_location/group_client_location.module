@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the group_client_location feature.
+ */
+
+include_once 'group_client_location.features.inc';

@@ -1,0 +1,8 @@
+name = field_client_contact_cellphone
+core = 7.x
+package = Client
+project = Client
+dependencies[] = features
+dependencies[] = text
+features[features_api][] = api:2
+features[field_base][] = field_client_contact_cellphone

@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the group_client_other_info feature.
+ */
+
+include_once 'group_client_other_info.features.inc';

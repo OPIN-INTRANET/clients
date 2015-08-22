@@ -1,0 +1,9 @@
+name = group_client_other_info
+core = 7.x
+package = Client
+project = Client
+dependencies[] = ctools
+dependencies[] = field_group
+features[ctools][] = field_group:field_group:1
+features[features_api][] = api:2
+features[field_group][] = group_client_other_info|node|client|form
